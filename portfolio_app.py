@@ -57,7 +57,7 @@ with tab_sobre_mim:
     st.markdown("""
     Olá! Seja bem vindo (a) ao espaço que eu criei para compartilhar um pouco da minha trajetória e principais projetos. 
                 
-    Sou formada em Ciências Contábeis pela Universidade Federal de Santa Catarina (UFSC) e  MBA em Gestão Estratégica em Finanças pela PUC Minas. Dediquei parte do meu tempo ao mundo financeiro e contábil. Passado isso, decidi migrar para a área de tecnologia. Conectando meus conhecimentos financeiros com a paixão por tecnologia e automatização. Com previsão para conclusão em outubro de 2025, atualmente estou cursando uma pós graduação em Engenharia de IA pela Data Science Academy (DSA).
+    Sou formada em Ciências Contábeis pela Universidade Federal de Santa Catarina (UFSC) e  MBA em Gestão Estratégica em Finanças pela PUC Minas. Dediquei parte do meu tempo ao mundo financeiro e contábil. Passado isso, decidi migrar para a área de tecnologia. Conectando meus conhecimentos financeiros com a paixão por tecnologia e automatização. Com previsão para conclusão em outubro de 2026, atualmente estou cursando uma pós graduação em Engenharia de IA pela Data Science Academy (DSA).
                 
     Meu objetivo principal é resolver problemas do mundo real utilizando dados e tecnologia. Acredito que a análise de dados é uma ferramenta poderosa para tomar decisões informadas e impulsionar o crescimento dos negócios.   
     
@@ -83,10 +83,10 @@ with tab_sobre_mim:
             st.progress(70)
     with col_percent:
     # Usamos o mesmo font-size para alinhar com o texto da habilidade
-            st.markdown("<span style='font-size: small;'>**90%**</span>", unsafe_allow_html=True)
+            st.markdown("<span style='font-size: small;'>**70%**</span>", unsafe_allow_html=True)
     
     # Habilidade 2: Inglês (70%)
-    st.markdown("<span style='font-size: small; font-weight: bold;'>Python</span>", unsafe_allow_html=True)
+    st.markdown("<span style='font-size: small; font-weight: bold;'>Inglês</span>", unsafe_allow_html=True)
     col_progress, col_percent = st.columns([4, 1]) # 4 para a barra, 1 para o texto
     with col_progress:
             st.progress(70)
@@ -105,7 +105,7 @@ with tab_sobre_mim:
             st.progress(90)
     with col_percent:
     # Usamos o mesmo font-size para alinhar com o texto da habilidade
-            st.markdown("<span style='font-size: small;'>**80%**</span>", unsafe_allow_html=True)
+            st.markdown("<span style='font-size: small;'>**90%**</span>", unsafe_allow_html=True)
     
     # Habilidade 2: Tableau e Looker (90%)
     st.markdown("<span style='font-size: small; font-weight: bold;'>Tableau e Looker </span>", unsafe_allow_html=True)
@@ -132,7 +132,7 @@ with tab_sobre_mim:
             st.progress(30)
     with col_percent:
     # Usamos o mesmo font-size para alinhar com o texto da habilidade
-            st.markdown("<span style='font-size: small;'>**90%**</span>", unsafe_allow_html=True)
+            st.markdown("<span style='font-size: small;'>**30%**</span>", unsafe_allow_html=True)
     
     # Habilidade 2: Slack (80%)
     st.markdown("<span style='font-size: small; font-weight: bold;'>Slack e Automatizações </span>", unsafe_allow_html=True)
@@ -141,7 +141,7 @@ with tab_sobre_mim:
             st.progress(80)
     with col_percent:
     # Usamos o mesmo font-size para alinhar com o texto da habilidade
-            st.markdown("<span style='font-size: small;'>**90%**</span>", unsafe_allow_html=True)
+            st.markdown("<span style='font-size: small;'>**80%**</span>", unsafe_allow_html=True)
 
 
    
